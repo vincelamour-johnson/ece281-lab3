@@ -6,3 +6,8 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 
 Built for Vivado 2024.2 on Windows 11.
 
+
+![Waveform from thunderbird_fsm_tb](thunderbird_waveform.png)
+
+# Documentation Statement:
+I used my notes, the textbook, and recieved help from C3C Alexandra and C3C Tristen. I did not use any other resources
